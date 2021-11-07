@@ -8,16 +8,6 @@ https://github.com/google/webcrypto.dart
 
 webcrypto: ^0.5.2
 
-zusätzlich als vergleich:
-
-pointycastle: ^3.3.5
-
-https://pub.dev/packages/hex
-
-hex: ^0.2.0
-
-just for hex viewing
-
 ACHTUNG: error in impl_ffi.utils.dart bei aktuellem Dart (2.5+)
 
 Zeile 28ff
